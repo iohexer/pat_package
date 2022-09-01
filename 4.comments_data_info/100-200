@@ -1,0 +1,406 @@
+{
+    "laravel-com-vue-exemplo-master": [
+        69, 
+        49
+    ], 
+    "query-string-master": [
+        11, 
+        0
+    ], 
+    "cart-master": [
+        63, 
+        48
+    ], 
+    "xsd2php-master": [
+        59, 
+        30
+    ], 
+    "EsParser-master": [
+        143, 
+        11
+    ], 
+    "groupscatalog2-master": [
+        263, 
+        180
+    ], 
+    "laravel-scaffold-master": [
+        71, 
+        48
+    ], 
+    "validation-master": [
+        226, 
+        174
+    ], 
+    "laravel-multi-tenant-master": [
+        20, 
+        16
+    ], 
+    "NelmioSolariumBundle-master": [
+        12, 
+        4
+    ], 
+    "vercel-examples-master": [
+        12413, 
+        8405
+    ], 
+    "buddyboss-platform-master": [
+        14077, 
+        7848
+    ], 
+    "ti-rpc-master": [
+        252, 
+        207
+    ], 
+    "magento2-disable-stock-reservation-master": [
+        121, 
+        58
+    ], 
+    "singlestoredb-laravel-driver-main": [
+        83, 
+        22
+    ], 
+    "retorno-boletophp-master": [
+        54, 
+        33
+    ], 
+    "laravel-tutorial-sample-master": [
+        58, 
+        39
+    ], 
+    "monitor-master": [
+        1113, 
+        1074
+    ], 
+    "webDiplomacy-master": [
+        1420, 
+        683
+    ], 
+    "wp-skeleton-plugin-master": [
+        15, 
+        9
+    ], 
+    "KnpIpsum-master": [
+        91, 
+        45
+    ], 
+    "DoctrineExtensions-master": [
+        2968, 
+        705
+    ], 
+    "SymfonyConfigTest-master": [
+        52, 
+        10
+    ], 
+    "Cm_Cache_Backend_File-master": [
+        32, 
+        26
+    ], 
+    "nova-breadcrumbs-master": [
+        10, 
+        9
+    ], 
+    "gimage-master": [
+        120, 
+        114
+    ], 
+    "laravel-api-rest-master": [
+        62, 
+        41
+    ], 
+    "satis-control-panel-master": [
+        262, 
+        153
+    ], 
+    "JsonPath-PHP-master": [
+        33, 
+        21
+    ], 
+    "oauth2-openid-connect-server-master": [
+        15, 
+        9
+    ], 
+    "file-vault-master": [
+        20, 
+        10
+    ], 
+    "magento2-s3-master": [
+        184, 
+        90
+    ], 
+    "luthier-ci-master": [
+        241, 
+        138
+    ], 
+    "accounting-master": [
+        73, 
+        33
+    ], 
+    "RompR-master": [
+        1074, 
+        800
+    ], 
+    "Aktive-Merchant-master": [
+        742, 
+        373
+    ], 
+    "orm-master": [
+        766, 
+        524
+    ], 
+    "omegaup-main": [
+        1808, 
+        674
+    ], 
+    "fitbitphp-master": [
+        80, 
+        74
+    ], 
+    "EnglishCommunity-laravel-master": [
+        1111, 
+        1044
+    ], 
+    "subscribable-notifications-master": [
+        47, 
+        25
+    ], 
+    "opentape-master": [
+        214, 
+        165
+    ], 
+    "ecommerce-laravel-master": [
+        144, 
+        104
+    ], 
+    "magento2-functional-testing-framework-master": [
+        2531, 
+        1463
+    ], 
+    "soluble-mediatools-master": [
+        302, 
+        124
+    ], 
+    "laravel-governor-master": [
+        17, 
+        9
+    ], 
+    "laravel-eloquent-sequencer-master": [
+        39, 
+        32
+    ], 
+    "WallaceTheme-master": [
+        598, 
+        254
+    ], 
+    "yii2-wx-master": [
+        183, 
+        90
+    ], 
+    "bitcoin-cryptocurrency-tutorial-master": [
+        8847, 
+        5312
+    ], 
+    "cakephp-oauth-server-master": [
+        80, 
+        26
+    ], 
+    "enumeration-master": [
+        53, 
+        41
+    ], 
+    "litecart-master": [
+        24, 
+        18
+    ], 
+    "laravel-queue-clear-master": [
+        16, 
+        7
+    ], 
+    "github-profile-views-counter-master": [
+        32, 
+        8
+    ], 
+    "tweet-php-master": [
+        140, 
+        69
+    ], 
+    "routing-bundle-master": [
+        57, 
+        7
+    ], 
+    "vip-scanner-master": [
+        184, 
+        100
+    ], 
+    "miniPHP-master": [
+        441, 
+        282
+    ], 
+    "NovaGram-master": [
+        83, 
+        77
+    ], 
+    "localizator-master": [
+        41, 
+        33
+    ], 
+    "acf-options-for-polylang-master": [
+        31, 
+        16
+    ], 
+    "MrCoderStackBlog-master": [
+        82, 
+        47
+    ], 
+    "Forum-master": [
+        229, 
+        202
+    ], 
+    "dflydev-placeholder-resolver-master": [
+        29, 
+        13
+    ], 
+    "DockerConEU2015-demo-master": [
+        32, 
+        28
+    ], 
+    "codeigniter-ss-twig-master": [
+        19, 
+        9
+    ], 
+    "wp-api-menus-master": [
+        21, 
+        17
+    ], 
+    "concord-master": [
+        148, 
+        67
+    ], 
+    "magento-performance-tweaks-master": [
+        21, 
+        12
+    ], 
+    "hrm-master": [
+        470, 
+        411
+    ], 
+    "SimpleCrudGenerator-master": [
+        97, 
+        41
+    ], 
+    "required-foundation-master": [
+        33, 
+        17
+    ], 
+    "CAPTCHA_Reader-master": [
+        177, 
+        175
+    ], 
+    "think-addons-master": [
+        21, 
+        14
+    ], 
+    "rest-master": [
+        24, 
+        0
+    ], 
+    "yii2-debug-master": [
+        108, 
+        56
+    ], 
+    "collections-master": [
+        252, 
+        242
+    ], 
+    "lqycms-master": [
+        1445, 
+        1127
+    ], 
+    "laravel-ratchet-master": [
+        34, 
+        27
+    ], 
+    "vhs-master": [
+        418, 
+        364
+    ], 
+    "laravel-http2-server-push-master": [
+        11, 
+        8
+    ], 
+    "likeshop-master": [
+        37505, 
+        17927
+    ], 
+    "yii2-sphinx-master": [
+        77, 
+        37
+    ], 
+    "DeepLy-1.x": [
+        42, 
+        40
+    ], 
+    "dataloader-php-master": [
+        38, 
+        24
+    ], 
+    "StringBladeCompiler-master": [
+        12, 
+        10
+    ], 
+    "EasyRSA-master": [
+        19, 
+        14
+    ], 
+    "Social-Network-master": [
+        279, 
+        137
+    ], 
+    "client-master": [
+        157, 
+        94
+    ], 
+    "larastreamers-main": [
+        81, 
+        40
+    ], 
+    "Transphpile-master": [
+        73, 
+        13
+    ], 
+    "WPThumb-master": [
+        94, 
+        18
+    ], 
+    "Repo-Roster-main": [
+        37505, 
+        17927
+    ], 
+    "Wechat-php-master": [
+        41, 
+        24
+    ], 
+    "vfkphp-master": [
+        975, 
+        673
+    ], 
+    "core-master": [
+        989, 
+        373
+    ], 
+    "amnav-master": [
+        53, 
+        21
+    ], 
+    "twentytwentyone-trunk": [
+        49, 
+        42
+    ], 
+    "digpage-master": [
+        169, 
+        63
+    ], 
+    "egroupware-master": [
+        2887, 
+        1659
+    ]
+}

@@ -1,0 +1,47 @@
+{
+"_comment": "un-preferable APIs for finding string transforming functions",
+"resource_apis":[
+   "mysql",
+   "mysqli",
+   "ldap",
+   "query",
+   "pdo",
+   "file_get_contents",
+   "file_put_contents",
+   "curl",
+   "exec",
+   "system",
+   "rss",
+   "excel",
+   "mail"
+],
+"_comment": "sensitive words for UD sanitizers function name identification",
+"func_names":[
+   "xss",
+   "evil",
+   "htmlspecialchar",
+   "htmlentity",
+   "htmlspecialchars",
+   "htmlentities",
+   "htmlpurifier"
+],
+"_comment": "sensitive words for UD sanitizers comment identification",
+"verb_list":[
+   "escape",
+   "clean",
+   "cleanup",
+   "strip",
+   "filter",
+   "remove"
+],
+"noun_list":[
+   "character",
+   "html",
+   "xml",
+   "text",
+   "textarea",
+   "attrrbute",
+   "entities",
+   "input"
+]
+}
